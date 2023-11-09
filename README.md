@@ -1,0 +1,2 @@
+# NextEnduHintGenereate
+Enduに関するHintを生成するアプリケーションです。
